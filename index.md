@@ -1,15 +1,19 @@
 Rest of the 21 GitHub repository clusters are presented as follows;
 
 ![Image 2]
+
 (https://thewebanonymous.github.io/images/2.png)
 
 ![Image 3]
+
 (https://thewebanonymous.github.io/images/3.png)
 
 ![Image 4]
+
 (https://thewebanonymous.github.io/images/4.png)
 
 ![Image 7]
+
 (https://thewebanonymous.github.io/images/7.png)
 
 ![Image 8]

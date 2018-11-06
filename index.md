@@ -1,4 +1,12 @@
-Rest of the 21 GitHub repository clusters are presented as follows;
+
+
+
+
+
+
+
+
+**Rest of the 21 GitHub repository clusters are presented as follows;**
 
 ![Image 2](https://thewebanonymous.github.io/images/2.png)
 
@@ -24,7 +32,9 @@ Rest of the 21 GitHub repository clusters are presented as follows;
 
 ![Image 20](https://thewebanonymous.github.io/images/20.png)
 
-Rest of the 7 Twitter hashtag clusters are presented as follows;
+
+
+**Rest of the 7 Twitter hashtag clusters are presented as follows;**
 ![Image 3](https://thewebanonymous.github.io/images/twitter_3.png)
 
 ![Image 4](https://thewebanonymous.github.io/images/twitter_4.png)
